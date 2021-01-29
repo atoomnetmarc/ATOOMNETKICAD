@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TMC2226-SA
+D Driver for two-phase bipolar stepper motor.
+K stepper motor driver
+F https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj-sJif37ntAhVKsKQKHdw8BlMQFjABegQIARAC&url=https%3A%2F%2Fwww.trinamic.com%2Ffileadmin%2Fassets%2FProducts%2FICs_Documents%2FTMC2226_Datasheet_V106.pdf&usg=AOvVaw1eDxP2VSo5BUIAbe3nR1Bf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA826
+D Precision, 200-μA Supply Current, 36-V Supply Instrumentation Amplifier, VSSOP-8 package
+K instrumentation opamp
+F http://www.ti.com/product/INA826/
+$ENDCMP
+#
+#End Doc Library

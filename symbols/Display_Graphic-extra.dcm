@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Nokia_5110_display
+D SPI LCD 48x84 3.3V
+K display LCD graphic
+$ENDCMP
+#
+#End Doc Library

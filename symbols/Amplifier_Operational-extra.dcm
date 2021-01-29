@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP OPA454
+D High-Voltage High-Current Operational Amplifier
+K single opamp
+$ENDCMP
+#
+$CMP OPA454AIDDAR
+D High-Voltage High-Current Operational Amplifier
+K single opamp
+$ENDCMP
+#
+#End Doc Library
