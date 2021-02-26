@@ -4,4 +4,8 @@ $CMP JN5148-001-M
 D NXP/Jennic JN5148 module, SMD
 $ENDCMP
 #
+$CMP MS88SF2
+D Minew MS88SF2 module, SMD
+$ENDCMP
+#
 #End Doc Library
