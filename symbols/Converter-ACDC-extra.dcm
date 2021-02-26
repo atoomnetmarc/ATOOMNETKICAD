@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPM-20-12
+D 20W High Reliable Green Medical Encapsulated Type
+K Miniature Module-type Power Supply MeanWell
+$ENDCMP
+#
+$CMP MPM-30-15
+D 30W High Reliable Green Medical Encapsulated Type
+K Miniature Module-type Power Supply MeanWell
+$ENDCMP
+#
+$CMP MPM-90-24
+D 90W AC-DC High Reliable PCB-Mount Green Medical Power Module
+K Miniature Module-type Power Supply MeanWell
+$ENDCMP
+#
+#End Doc Library
