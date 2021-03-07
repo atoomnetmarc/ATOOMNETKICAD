@@ -15,6 +15,6 @@ Note on 3d models: not all referenced models are included because of licensing c
 
 # License
 
-This repositiry is licensed under the same conditions as the [original Kicad Library License](https://gitlab.com/kicad/libraries/kicad-footprints/-/blob/master/LICENSE.md).
+This repository is licensed under the same conditions as the [original Kicad Library License](https://gitlab.com/kicad/libraries/kicad-footprints/-/blob/master/LICENSE.md).
 
 A [copy of the license](LICENSE.md) has been included.
