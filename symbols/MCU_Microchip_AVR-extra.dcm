@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AT90S2323
+D 10MHz, 2kB Flash, 128B SRAM, 128B EEPROM, DIP-8
+K AVR 8bit Microcontroller
+$ENDCMP
+#
 #End Doc Library
