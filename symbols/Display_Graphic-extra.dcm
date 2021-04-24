@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP LCD12864
+D Graphics Display 128x64px, KS0108 (12864A), ST7920 (12864B).
+K display LCD graphic
+$ENDCMP
+#
 $CMP Nokia_5110_display
 D SPI LCD 48x84 3.3V
 K display LCD graphic
