@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PL9823-F5
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+$ENDCMP
+#
+#End Doc Library
