@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BME280_3V
+D BME280 module 3.3V
+$ENDCMP
+#
 $CMP BME280_5V
 D BME280 module with 5V vin and 5V I2C level translator.
 $ENDCMP
