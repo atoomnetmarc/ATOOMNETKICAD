@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BME280_5V
+D BME280 module with 5V vin and 5V I2C level translator.
+$ENDCMP
+#
 $CMP LM2596S
 D 1A Step-Down Voltage Regulator
 K Step-Down Voltage Regulator 1A
