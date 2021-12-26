@@ -1,8 +1,8 @@
-This repository contains my personal collection of Kicad symbols, footprints and 3d models I use in my Kicad projects.
+This repository contains my personal collection of Kicad 6 symbols, footprints and 3d models I use in my Kicad projects.
 
 Please note that not all symbols, footprints or 3d models have been been validated and/or production tested and should be assumed to be wildly incorrect. When you choose to use this library for any reason, please validate everything yourself.
 
-Please configure your [Kicad Paths](https://docs.kicad.org/5.0/en/kicad/kicad.html#paths_configuration) and add ```${ATOOMNETKICAD}``` to point to the directory this repository has been cloned to.
+Please configure your [Kicad Paths](https://docs.kicad.org/6.0/en/kicad/kicad.html#paths_configuration) and add ```${ATOOMNETKICAD}``` to point to the directory this repository has been cloned to.
 
 ![](configure-paths.png)
 
