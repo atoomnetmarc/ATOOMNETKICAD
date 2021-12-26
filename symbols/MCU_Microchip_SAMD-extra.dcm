@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SAMD21G_ARDUINO_M0
-D Pins according to framwork-arduinosam/variants/arduino_mzero/variant.cpp
-$ENDCMP
-#
-#End Doc Library

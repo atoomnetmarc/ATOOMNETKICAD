@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LED_Small-45
-D Light emitting diode, small symbol
-K LED diode light-emitting-diode
-F ~
-$ENDCMP
-#
-#End Doc Library

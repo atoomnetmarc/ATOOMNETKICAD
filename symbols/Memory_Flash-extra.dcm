@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP W25Q64FV
-D 64-Mbit, 3V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, SOIC-8
-K SPI DSPI QSPI 64Mbit 3V
-$ENDCMP
-#
-#End Doc Library

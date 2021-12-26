@@ -1,8 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP AOD403
-D -70A Id, -30V Vds, P-Channel Power MOSFET, 8mOhm Ron, TO252
-K P-Channel MOSFET
-$ENDCMP
-#
-#End Doc Library
