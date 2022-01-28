@@ -47,7 +47,7 @@
   (pad 2 smd roundrect (at 3.7 0) (size 4.4 2.5) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.1))
   (pad 1 thru_hole rect (at -1.5 1.25) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 1.5 -1.25) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Capacitor_SMD.3dshapes/CP_Elec_8x10.5.wrl
+  (model ${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_8x10.5.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

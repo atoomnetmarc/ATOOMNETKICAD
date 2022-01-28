@@ -63,7 +63,7 @@
     (zone_connect 2))
   (pad 29 thru_hole oval (at 0 0) (size 2.5 6) (drill oval 2 5.5) (layers *.Cu *.Mask)
     (zone_connect 2))
-  (model ${KISYS3DMOD}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm.step
+  (model ${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP3.4x9.5mm.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
