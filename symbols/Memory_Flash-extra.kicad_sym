@@ -6,7 +6,7 @@
     (property "Value" "W25Q64FV" (id 1) (at 5.08 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_SO-extra:SOIC-8_208mil" (id 2) (at 0 -15.24 0)
+    (property "Footprint" "Package_SO:SOIC-8_5.23x5.23mm_P1.27mm" (id 2) (at 0 -15.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
@@ -18,7 +18,7 @@
     (property "ki_description" "64-Mbit, 3V Minimum SPI Serial Flash Memory with Dual-I/O and Quad-I/O Support, SOIC-8" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_fp_filters" "SOIC?8*5.28x5.28mm*P1.27mm*" (id 6) (at 0 0 0)
+    (property "ki_fp_filters" "SOIC?8*5.23x5.23mm*P1.27mm*" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "W25Q64FV_1_1"
