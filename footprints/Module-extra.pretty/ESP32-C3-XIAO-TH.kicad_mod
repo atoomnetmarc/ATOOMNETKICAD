@@ -1,0 +1,325 @@
+(footprint "ESP32-C3-XIAO-TH"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 8.4995 -3.6605 0)
+		(layer "F.SilkS")
+		(uuid "6729287f-1b9a-4ef8-8707-6bbe88b2313d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "ESP32-C3-XIAO"
+		(at 7.62 7.62 0)
+		(layer "F.Fab")
+		(uuid "1b0d5dc1-3083-48cd-abad-e7e2036239a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -0.835 18.12 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce737f6b-478f-495e-9828-f0a83350208b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -0.835 18.12 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52057856-d4c2-4d1e-b7d3-b9e892f2a9e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -0.835 18.12 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6724402b-7966-4367-8a4a-857f3d45bcdc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.28 18.12)
+		(end 16.52 18.12)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ad6d662e-389a-4945-b7e5-2d8899477884")
+	)
+	(fp_line
+		(start -1.27 -2.88)
+		(end -1.27 18.12)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2684f6a1-402b-4f98-8cd8-30bbefc43451")
+	)
+	(fp_line
+		(start 3.175 -4.445)
+		(end 12.065 -4.451)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8122bc89-0bdd-4950-93f1-1bfe8da3e3f5")
+	)
+	(fp_line
+		(start 3.175 2.921)
+		(end 3.175 -4.445)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "64eeeccd-348a-463f-adad-cf5cb42fd31b")
+	)
+	(fp_line
+		(start 12.065 -4.451)
+		(end 12.065 2.921)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a9fb921e-38c3-4310-a22a-d431d635b8be")
+	)
+	(fp_line
+		(start 12.065 2.921)
+		(end 3.175 2.921)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "11166cbe-7081-47e0-b50f-9d404c876a5c")
+	)
+	(fp_line
+		(start 16.51 -2.88)
+		(end -1.27 -2.88)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ffd84827-284b-4589-9d14-c01ec50beded")
+	)
+	(fp_line
+		(start 16.51 18.12)
+		(end 16.51 -2.88)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f074bb11-2ff9-4fc2-baa3-b8b2eea9c5a3")
+	)
+	(fp_poly
+		(pts
+			(xy -0.508 -1.016) (xy -1.008 -1.016) (xy -0.508 -1.516) (xy -0.508 -1.016)
+		)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "3484f31b-37ef-4a65-88ec-a35cb88602ea")
+	)
+	(fp_arc
+		(start 7.62 15.24)
+		(mid 7.62 17.78)
+		(end 7.62 15.24)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "Dwgs.User")
+		(uuid "1ef80096-41cd-4e5d-8d81-56aa5faf03c0")
+	)
+	(fp_text user "ANT"
+		(at 7.62 16.51 0)
+		(unlocked yes)
+		(layer "Dwgs.User")
+		(uuid "884baf0d-81e7-4d2c-b2ee-8dec7c478752")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 0)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "838dc4e3-2fd9-48e9-8265-9d2326118bbe")
+	)
+	(pad "2" thru_hole oval
+		(at 0 2.54)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a2b64238-3d7a-4ecc-b8d8-7811482a0b16")
+	)
+	(pad "3" thru_hole oval
+		(at 0 5.08)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8439a251-d9be-47b4-847a-82986d3e45f0")
+	)
+	(pad "4" thru_hole oval
+		(at 0 7.62)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "c25e3efa-df1f-449e-90df-0c1489602230")
+	)
+	(pad "5" thru_hole oval
+		(at 0 10.16)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8e8fd1b8-cc5a-4d69-97ad-617e2e20a477")
+	)
+	(pad "6" thru_hole oval
+		(at 0 12.7)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bdfa03dd-96fd-4989-8209-f9fd7c7bc7aa")
+	)
+	(pad "7" thru_hole oval
+		(at 0 15.24)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bed9d42d-1c23-4ab0-8547-a3b080a809d4")
+	)
+	(pad "8" thru_hole oval
+		(at 15.24 15.24)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "023b938e-8f6a-41e4-8786-6cec9d1c1882")
+	)
+	(pad "9" thru_hole oval
+		(at 15.24 12.7)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8798dca1-d46e-47d7-9a38-afdd7d919737")
+	)
+	(pad "10" thru_hole oval
+		(at 15.24 10.16)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "3c20f46c-2fd2-4393-9fc5-03bcbf9ebcf8")
+	)
+	(pad "11" thru_hole oval
+		(at 15.24 7.62)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7e83d3c7-2662-4bb5-880e-ae1bdfc71bf1")
+	)
+	(pad "12" thru_hole oval
+		(at 15.24 5.08)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "15fdc7f7-f2fc-4e70-acec-96b2470061f5")
+	)
+	(pad "13" thru_hole oval
+		(at 15.24 2.54)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bf6ecb08-9d2e-47f0-9900-0f62027a8e74")
+	)
+	(pad "14" thru_hole oval
+		(at 15.24 0)
+		(size 2.1 1.7)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "917f673d-bdbb-4b66-8018-fdb3fff6f546")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x07_P2.54mm_Vertical.wrl"
+		(offset
+			(xyz 15.24 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${ATOOMNETKICAD}/3d models/3rd party/grabcad/Seeed Studio XIAO-ESP32-C3.step"
+		(offset
+			(xyz 13.735 -9.36 2.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)
