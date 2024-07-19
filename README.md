@@ -4,7 +4,13 @@ Please note that not all symbols, footprints or 3d models have been been validat
 
 Please configure your [Kicad Paths](https://docs.kicad.org/8.0/en/kicad/kicad.html#paths_configuration) and add `${ATOOMNETKICAD}` to point to the directory this repository has been cloned to.
 
-![](configure-paths.png)
+Linux:
+
+![](configure-paths-linux.png)
+
+Windows:
+
+![](configure-paths-windows.png)
 
 The symbol and footprint libraries are loosely named and categorized like the Kicad Library itself, but that could change in a backwards incompatible way in a future update.
 
