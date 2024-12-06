@@ -1,9 +1,9 @@
-(footprint "Raspberry_Pi_1_Socketed_THT_FaceDown_MountingHoles"
+(footprint "Raspberry_Pi_1_Socketed_THT_FaceDown_MountingHoles+"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(descr "Raspberry Pi 1 model A or B using through hole straight pin socket, 2x13, 2.54mm pitch, dimensions are measured from real device because lack of official mechanical drawings.")
+	(descr "Raspberry Pi 1 model A or B using through hole straight pin socket, 2x13, 2.54mm pitch, including the mounting holes for Pi Zero and B+ , dimensions are measured from real device because lack of official mechanical drawings.")
 	(tags "raspberry pi 1 through hole")
 	(property "Reference" "REF**"
 		(at -6.27 24.13 90)
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "Raspberry_Pi_1_Socketed_THT_FaceDown_MountingHoles"
+	(property "Value" "Raspberry_Pi_1_Socketed_THT_FaceDown_MountingHoles+"
 		(at 10.23 24.13 -90)
 		(layer "F.Fab")
 		(hide yes)
@@ -704,6 +704,22 @@
 		)
 	)
 	(pad "" np_thru_hole circle
+		(at -1.27 -4.87 90)
+		(size 2.75 2.75)
+		(drill 2.75)
+		(layers "F&B.Cu" "*.Mask")
+		(solder_mask_margin 1.625)
+		(uuid "653121ed-22c6-4a2c-80c0-3b46d200fac9")
+	)
+	(pad "" np_thru_hole circle
+		(at -1.27 53.19 90)
+		(size 2.75 2.75)
+		(drill 2.75)
+		(layers "F&B.Cu" "*.Mask")
+		(solder_mask_margin 1.625)
+		(uuid "0169341b-f60c-4419-b065-2f9af5bc8d94")
+	)
+	(pad "" np_thru_hole circle
 		(at 6.83 77.51 90)
 		(size 2.9 2.9)
 		(drill 2.9)
@@ -712,12 +728,44 @@
 		(uuid "40133b31-94fa-42a0-861e-ba854c747d94")
 	)
 	(pad "" np_thru_hole circle
+		(at 21.73 -4.87 90)
+		(size 2.75 2.75)
+		(drill 2.75)
+		(layers "F&B.Cu" "*.Mask")
+		(solder_mask_margin 1.625)
+		(uuid "7e050098-274f-4964-a557-5685553d81e9")
+	)
+	(pad "" np_thru_hole circle
+		(at 21.73 53.13 90)
+		(size 2.75 2.75)
+		(drill 2.75)
+		(layers "F&B.Cu" "*.Mask")
+		(solder_mask_margin 1.625)
+		(uuid "d8a2e3b6-4f15-4625-bb58-f35d7b76db1f")
+	)
+	(pad "" np_thru_hole circle
 		(at 32.38 22.93 90)
 		(size 2.9 2.9)
 		(drill 2.9)
 		(layers "F&B.Cu" "*.Mask")
 		(solder_mask_margin 1.625)
 		(uuid "92b41ee8-6f85-435c-85e0-0f456648c4ec")
+	)
+	(pad "" np_thru_hole circle
+		(at 47.73 -4.87 90)
+		(size 2.75 2.75)
+		(drill 2.75)
+		(layers "F&B.Cu" "*.Mask")
+		(solder_mask_margin 1.625)
+		(uuid "6bd9e52d-330c-460a-827b-6ee06c528e43")
+	)
+	(pad "" np_thru_hole circle
+		(at 47.73 53.13 90)
+		(size 2.75 2.75)
+		(drill 2.75)
+		(layers "F&B.Cu" "*.Mask")
+		(solder_mask_margin 1.625)
+		(uuid "85b8bd24-4b09-4caa-bdb7-79cdc7545d87")
 	)
 	(pad "1" thru_hole rect
 		(at 0 0)
