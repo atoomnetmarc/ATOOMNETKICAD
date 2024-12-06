@@ -7539,7 +7539,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(property "Reference" "J"
+		(property "Reference" "A"
 			(at -17.78 31.75 0)
 			(effects
 				(font
