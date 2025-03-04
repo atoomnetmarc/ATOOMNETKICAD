@@ -2243,7 +2243,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "1042e55a-f038-4017-8401-f22291e69ae5")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Left.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Left.wrl"
 		(offset
 			(xyz 0 -22.86 0)
 		)
@@ -2254,7 +2254,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Right.wrl"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x19_P2.54mm_Vertical_SMD_Pin1Right.wrl"
 		(offset
 			(xyz 25.4 -22.86 0)
 		)

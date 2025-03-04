@@ -58,7 +58,7 @@
   (pad 3 thru_hole oval (at 0 1.27) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 5 thru_hole oval (at 7.62 3.81) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 8 thru_hole oval (at 7.62 -3.81) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KICAD8_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.step
+  (model ${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.step
     (offset (xyz 0 3.8 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

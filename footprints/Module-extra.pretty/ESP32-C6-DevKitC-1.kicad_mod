@@ -691,7 +691,7 @@
 		(remove_unused_layers no)
 		(uuid "f19b5301-af8c-4f8a-9f03-30e2bd62ef6a")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.step"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.step"
 		(offset
 			(xyz 0 0 0)
 		)
@@ -702,7 +702,7 @@
 			(xyz 0 0 0)
 		)
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.step"
+	(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x16_P2.54mm_Vertical.step"
 		(offset
 			(xyz 22.86 0 0)
 		)

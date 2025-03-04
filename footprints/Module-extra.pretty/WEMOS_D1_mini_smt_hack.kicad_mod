@@ -138,12 +138,12 @@
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
-  (model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Horizontal.wrl"
+  (model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Horizontal.wrl"
     (offset (xyz -1.27 -17.77 0.3))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 90 0))
   )
-  (model "${KICAD8_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Horizontal.wrl"
+  (model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x08_P2.54mm_Horizontal.wrl"
     (offset (xyz 24.13 0 0.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 90 0))

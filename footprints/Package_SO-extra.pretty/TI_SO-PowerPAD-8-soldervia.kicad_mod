@@ -44,7 +44,7 @@
   (pad 9 smd rect (at -0.6025 -0.775) (size 1.205 1.55) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
   (pad 9 thru_hole circle (at 0 0) (size 2 2) (drill 1.5) (layers *.Cu *.Mask))
-  (model ${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/TI_SO-PowerPAD-8.wrl
+  (model ${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/TI_SO-PowerPAD-8.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -61,7 +61,7 @@
   (pad "14" thru_hole oval (at 33.02 0) (size 1.8 2.6) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp fb05b176-86b6-4b5e-9d9c-f7abc2efcf6f))
   (pad "15" thru_hole oval (at 35.56 0) (size 1.8 2.6) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp f36a3d86-bd66-4cf3-a104-ae4b77bff2f7))
   (pad "16" thru_hole oval (at 38.1 0) (size 1.8 2.6) (drill 1.2) (layers "*.Cu" "*.Mask") (tstamp dbc08d9a-1415-4fce-8dba-478d9e80d3b3))
-  (model "${KICAD8_3DMODEL_DIR}/Display.3dshapes/WC1602A.wrl"
+  (model "${KICAD9_3DMODEL_DIR}/Display.3dshapes/WC1602A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

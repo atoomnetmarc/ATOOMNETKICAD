@@ -101,7 +101,7 @@
   (pad 3 thru_hole oval (at 1.27 -11.43) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 21 thru_hole oval (at 8.89 1.27) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
   (pad 17 thru_hole oval (at 8.89 11.43) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask))
-  (model ${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-28_5.3x10.2mm_P0.65mm.wrl
+  (model ${KICAD9_3DMODEL_DIR}/Package_SO.3dshapes/SSOP-28_5.3x10.2mm_P0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
